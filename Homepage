@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Mesopotamia: The Cradle of Civilization</title>
+<style>
+body {
+font-family: Arial, sans-serif;
+background-color: #f4f1e6;
+margin: 0;
+}
+
+header {
+background-color: #7a5c3e;
+color: white;
+padding: 25px;
+text-align: center;
+}
+
+nav {
+background-color: #4e3a24;
+padding: 12px;
+text-align: center;
+}
+
+nav a {
+color: white;
+margin: 15px;
+text-decoration: none;
+font-weight: bold;
+}
+
+nav a:hover {
+color: gold;
+}
+
+.content {
+padding: 30px;
+line-height: 1.6;
+}
+
+footer {
+background-color: #7a5c3e;
+color: white;
+text-align: center;
+padding: 10px;
+}
+</style>
+</head>
+
+<body>
+
+<header>
+<h1>Mesopotamia: The Cradle of Civilization</h1>
+<p>Exploring the First Great Civilization in Human History</p>
+</header>
+
+<nav>
+<a href="civilization.html">Civilization</a>
+<a href="culture.html">Cultural Practices</a>
+<a href="innovations.html">Innovations</a>
+<a href="social.html">Social Structure</a>
+<a href="sources.html">Sources</a>
+</nav>
+
+<div class="content">
+
+<h2>Historical Background</h2>
+
+<p>
+Mesopotamia developed around 3500 BCE in the region between the Tigris and Euphrates Rivers in what is now modern-day Iraq. The word “Mesopotamia” means “land between rivers.” Because of its fertile soil and access to water, it became the birthplace of some of the first cities and governments in human history.
+</p>
+
+<p>
+Major civilizations such as the Sumerians, Akkadians, Babylonians, and Assyrians rose and fell in this region. These societies created writing, legal systems, advanced farming techniques, organized religion, and structured social classes.
+</p>
+
+<p>
+This website explores how geography shaped Mesopotamian civilization, how cultural practices reflected their beliefs, how innovations transformed society, and how social structure organized everyday life.
+</p>
+
+</div>
+
+<footer>
+<p>Mesopotamia Website Project</p>
+</footer>
+
+</body>
+</html>
