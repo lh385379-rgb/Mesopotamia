@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Cultural Practices</title>
+<style>
+body {font-family: Arial; background-color:#f4f1e6; padding:30px; line-height:1.6;}
+img {width:400px; margin:15px;}
+</style>
+</head>
+
+<body>
+
+<h1>Cultural Practices in Mesopotamia</h1>
+<a href="index.html">Back to Home</a>
+
+<h2>Question 1: Death and Burial Practices</h2>
+
+<p>
+Mesopotamians believed that after death, individuals traveled to a shadowy underworld. Because of this belief, burial practices were important. People were often buried beneath their homes, symbolizing the continued presence of ancestors in family life.
+</p>
+
+<p>
+Graves often contained food, tools, jewelry, and personal objects. These items were believed to support the deceased in the afterlife. Wealthier individuals were buried with more valuable objects, showing how social class affected burial practices.
+</p>
+
+<p>
+Families performed rituals and offerings to honor ancestors. These practices reflected strong family bonds and religious beliefs.
+</p>
+
+<h2>Question 2: Cuisine and Social Interaction</h2>
+
+<p>
+Agriculture formed the foundation of Mesopotamian cuisine. Barley was the primary crop and was used to make bread and beer. Beer was a daily drink for adults and children because it was safer than river water.
+</p>
+
+<p>
+Other foods included wheat, lentils, onions, dates, fish, and goat meat. Cooking methods included baking, roasting, and boiling.
+</p>
+
+<p>
+Food also had religious importance. Offerings were made to gods in temples. Feasts celebrated victories, religious festivals, and community gatherings. Sharing meals strengthened social connections.
+</p>
+
+<h2>Images</h2>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Royal_Tomb_of_Ur.jpg/640px-Royal_Tomb_of_Ur.jpg">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Sumerian_feast_relief.jpg/640px-Sumerian_feast_relief.jpg">
+
+</body>
+</html>
