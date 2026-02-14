@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Social Structure in Mesopotamia</title>
+<style>
+body {
+font-family: Arial, sans-serif;
+background-color:#f4f1e6;
+padding:30px;
+line-height:1.7;
+}
+img {
+width:420px;
+margin:15px;
+}
+</style>
+</head>
+
+<body>
+
+<h1>Social Structure in Mesopotamia</h1>
+<a href="index.html">Back to Home</a>
+
+<h2>Question 1: What were the key elements of the social hierarchy?</h2>
+
+<p>
+Mesopotamian society was organized into a strict social hierarchy. This structure determined a person's rights, responsibilities, and opportunities.
+</p>
+
+<p>
+At the top of society was the king. The king was seen as chosen by the gods and was responsible for maintaining order, leading the military, and enforcing laws. Below the king were priests and government officials. Priests held significant power because religion was central to Mesopotamian life.
+</p>
+
+<p>
+The middle class included merchants, artisans, scribes, and skilled workers. Merchants conducted trade, artisans produced goods such as pottery and textiles, and scribes were educated individuals who could read and write cuneiform.
+</p>
+
+<p>
+Farmers made up a large portion of the population. They grew crops that supported the entire society. At the bottom were slaves, who were often prisoners of war or individuals who had fallen into debt.
+</p>
+
+<p>
+Social class affected legal treatment as well. Under Hammurabi’s Code, punishments varied depending on a person’s social rank.
+</p>
+
+<h2>Question 2: How did division of labor contribute to society?</h2>
+
+<p>
+Division of labor refers to the system in which different people perform specific jobs instead of everyone doing the same tasks.
+</p>
+
+<p>
+In Mesopotamia, division of labor increased efficiency. Farmers focused on growing food. Craftspeople created tools, pottery, and clothing. Builders constructed temples and city walls. Soldiers protected the city-states. Scribes recorded information.
+</p>
+
+<p>
+Because agricultural innovations created food surplus, not everyone needed to farm. This allowed people to specialize in other professions. Specialization led to improved craftsmanship, stronger trade networks, and technological progress.
+</p>
+
+<p>
+Division of labor helped cities function smoothly and allowed Mesopotamian civilization to become complex and advanced.
+</p>
+
+<h2>Images (From Wikipedia)</h2>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Hammurabi_code_louvre.jpg/640px-Hammurabi_code_louvre.jpg" alt="Code of Hammurabi Stele">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Standard_of_Ur_-_War.jpg/640px-Standard_of_Ur_-_War.jpg" alt="Standard of Ur Social Classes">
+
+</body>
+</html>
