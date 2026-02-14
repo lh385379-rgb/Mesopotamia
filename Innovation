@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Innovations in Mesopotamia</title>
+<style>
+body {
+font-family: Arial, sans-serif;
+background-color:#f4f1e6;
+padding:30px;
+line-height:1.7;
+}
+img {
+width:420px;
+margin:15px;
+}
+</style>
+</head>
+
+<body>
+
+<h1>Innovations in Mesopotamia</h1>
+<a href="index.html">Back to Home</a>
+
+<h2>Question 1: How did the invention of writing (cuneiform) impact communication and record-keeping?</h2>
+
+<p>
+One of the most important innovations in Mesopotamia was the invention of writing around 3200 BCE by the Sumerians. This writing system, called <b>cuneiform</b>, used wedge-shaped symbols pressed into clay tablets.
+</p>
+
+<p>
+Originally, cuneiform was developed to keep track of trade and agricultural goods. Merchants and temple officials needed a reliable system to record how much grain, livestock, or silver was being exchanged. Over time, writing expanded beyond economic records.
+</p>
+
+<p>
+Cuneiform allowed governments to create written laws, such as Hammurabi’s Code. This was revolutionary because laws were no longer based only on memory or tradition — they were permanently recorded. Writing made government more organized and powerful.
+</p>
+
+<p>
+Writing also preserved literature and knowledge. Stories such as the Epic of Gilgamesh were written on tablets, making it one of the earliest surviving works of literature in history. Scientific knowledge, astronomy, mathematics, and medical texts were also recorded.
+</p>
+
+<p>
+Without writing, complex cities could not have functioned efficiently. Cuneiform made communication, administration, trade, and cultural development possible on a large scale.
+</p>
+
+<h2>Question 2: What were the key technological advancements in agriculture and how did they contribute to prosperity?</h2>
+
+<p>
+Agriculture was the foundation of Mesopotamian success. However, farming in Mesopotamia was challenging due to unpredictable flooding and dry seasons.
+</p>
+
+<p>
+To solve this problem, Mesopotamians developed advanced irrigation systems. They built canals, levees, and reservoirs to control river water. This allowed farmers to water crops during dry seasons and prevent destruction during floods.
+</p>
+
+<p>
+Another major invention was the plow. The plow allowed farmers to prepare soil more efficiently than digging by hand. This increased food production significantly.
+</p>
+
+<p>
+Mesopotamians also developed the wheel, which improved transportation and farming equipment. With more food production, populations grew, cities expanded, and trade increased.
+</p>
+
+<p>
+These agricultural innovations led to economic prosperity. Surplus crops allowed specialization — meaning not everyone had to farm. Some people became artisans, traders, scribes, or soldiers. This specialization strengthened the civilization as a whole.
+</p>
+
+<h2>Images (From Wikipedia)</h2>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Cuneiform_script.jpg/640px-Cuneiform_script.jpg" alt="Cuneiform Writing Tablet">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Sumerian_harvest_scene.jpg/640px-Sumerian_harvest_scene.jpg" alt="Sumerian Agricultural Scene">
+
+</body>
+</html>
