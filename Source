@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Sources and Image Credits</title>
+<style>
+body {
+font-family: Arial, sans-serif;
+background-color:#f4f1e6;
+padding:30px;
+line-height:1.7;
+}
+
+img {
+width:400px;
+margin:15px;
+display:block;
+}
+
+.caption {
+font-size:14px;
+margin-bottom:25px;
+}
+</style>
+</head>
+
+<body>
+
+<h1>Sources and Image Credits</h1>
+
+<a href="index.html">Back to Home</a>
+
+<h2>Information Sources</h2>
+
+<ul>
+
+<li>
+Wikipedia. "Mesopotamia."<br>
+https://en.wikipedia.org/wiki/Mesopotamia
+</li>
+
+<li>
+Wikipedia. "Cuneiform."<br>
+https://en.wikipedia.org/wiki/Cuneiform
+</li>
+
+<li>
+Wikipedia. "Code of Hammurabi."<br>
+https://en.wikipedia.org/wiki/Code_of_Hammurabi
+</li>
+
+<li>
+World History Encyclopedia.<br>
+https://www.worldhistory.org/Mesopotamia/
+</li>
+
+<li>
+National Geographic. "Mesopotamia."<br>
+https://www.nationalgeographic.org/encyclopedia/mesopotamia/
+</li>
+
+</ul>
+
+<h2>Image Sources (Wikipedia)</h2>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Mesopotamia_map.png/640px-Mesopotamia_map.png">
+
+<div class="caption">
+Map of Mesopotamia. Source: Wikipedia Commons
+</div>
+
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Ziggurat_of_Ur.jpg/640px-Ziggurat_of_Ur.jpg">
+
+<div class="caption">
+Ziggurat of Ur, a Mesopotamian temple. Source: Wikipedia Commons
+</div>
+
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Cuneiform_script.jpg/640px-Cuneiform_script.jpg">
+
+<div class="caption">
+Example of Cuneiform Writing. Source: Wikipedia Commons
+</div>
+
+
+<h2>Image Licensing Note</h2>
+
+<p>
+All images are from Wikipedia Commons and are free to use for educational purposes.
+</p>
+
+</body>
+</html>
